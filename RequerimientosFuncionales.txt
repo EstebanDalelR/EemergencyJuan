@@ -1,0 +1,11 @@
+R1:
+Activar alerta
+Debe generar un paquete de datos con la descripción actual del estado: locación, usuario
+
+R2:
+Bloqueo de teléfono
+Debe, al lanzar la alerta, dar la impresión de que el teléfono no sirve
+
+R3:
+Desbloqueo de teléfono
+COn una orden desde central, debe desactivar el estado de emergencia
