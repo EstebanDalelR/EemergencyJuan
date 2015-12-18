@@ -1,11 +1,15 @@
 R1:
 Activar alerta
-Debe generar un paquete de datos con la descripciÛn actual del estado: locaciÛn, usuario
+Debe generar un paquete de datos con la descripci√≥n actual del estado: locaci√≥n, usuario
 
 R2:
-Bloqueo de telÈfono
-Debe, al lanzar la alerta, dar la impresiÛn de que el telÈfono no sirve
+Bloqueo de tel√©fono
+Debe, al lanzar la alerta, dar la impresi√≥n de que el tel√©fono no sirve
 
 R3:
-Desbloqueo de telÈfono
+Desbloqueo de tel√©fono
 COn una orden desde central, debe desactivar el estado de emergencia
+
+/////////////////////////////////////
+se usar√° Django para end
+-----------------------------
