@@ -11,5 +11,6 @@ Desbloqueo de teléfono
 COn una orden desde central, debe desactivar el estado de emergencia
 
 /////////////////////////////////////
-se usará Django para end
+se usará Django-Mongo para backend
+se usará AngularJS para frontend
 -----------------------------
