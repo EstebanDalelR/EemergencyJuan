@@ -10,6 +10,8 @@ R3:
 Desbloqueo de teléfono
 COn una orden desde central, debe desactivar el estado de emergencia
 
+R4:
+Activación de celulares cercanos para generar una red de alerta.
 /////////////////////////////////////
 se usará Django-Mongo para backend
 se usará AngularJS para frontend
